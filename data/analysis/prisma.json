@@ -13,7 +13,7 @@
  "assessed": 13,
  "excluded_ft": 4,
  "awaiting": 0,
- "excluded_detail": "3 LAA accuracy data not extractable, 1 no accuracy analysis against a reference standard",
+ "excluded_detail": "3 no accuracy analysis against a reference standard, 1 accuracy only for findings other than LAA thrombus",
  "included_reports": 9,
  "included_studies": 8,
  "synthesis": {
