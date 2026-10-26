@@ -1,0 +1,26 @@
+{
+ "db": {
+  "PubMed": 41,
+  "Embase": 78,
+  "WoS": 43
+ },
+ "identified": 162,
+ "duplicates": 72,
+ "screened": 90,
+ "excluded_tiab": 77,
+ "sought": 13,
+ "not_retrieved": 0,
+ "assessed": 13,
+ "excluded_ft": 4,
+ "awaiting": 0,
+ "excluded_detail": "3 LAA accuracy data not extractable, 1 no accuracy analysis against a reference standard",
+ "included_reports": 9,
+ "included_studies": 8,
+ "synthesis": {
+  "primary": 5,
+  "s1": 4,
+  "s2": 4,
+  "s3": 5,
+  "s4": 1
+ }
+}

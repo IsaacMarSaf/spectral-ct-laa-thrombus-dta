@@ -1,0 +1,8 @@
+quantity,estimate,posterior_probability,k,studies
+"Sensitivity, spectral",97.9% (85.1–99.8),NA,4,Hur et al. 2012; Li et al. 2022; Schlett et al. 2020; Yu et al. 2024
+"Sensitivity, conventional",95.6% (74.0–99.3),NA,4,Hur et al. 2012; Li et al. 2022; Schlett et al. 2020; Yu et al. 2024
+Difference in sensitivity (spectral − conventional),2.0 (-6.9 to 19.2) percentage points,0.73575,4,Hur et al. 2012; Li et al. 2022; Schlett et al. 2020; Yu et al. 2024
+"Specificity, spectral",94.4% (73.9–98.6),NA,4,Hur et al. 2012; Li et al. 2022; Schlett et al. 2020; Yu et al. 2024
+"Specificity, conventional",80.9% (42.1–94.2),NA,4,Hur et al. 2012; Li et al. 2022; Schlett et al. 2020; Yu et al. 2024
+Difference in specificity (spectral − conventional),13.2 (3.8 to 35.1) percentage points,1,4,Hur et al. 2012; Li et al. 2022; Schlett et al. 2020; Yu et al. 2024
+Relative specificity (spectral / conventional),1.163 (1.041–1.830),1,4,Hur et al. 2012; Li et al. 2022; Schlett et al. 2020; Yu et al. 2024
